@@ -25,13 +25,32 @@ Users can:
 
 ---
 
-## Project Structure
+## How to Run the Project
 
-research-project/
-│
-├── frontend
-│ ├──backend/ # Node.js + Express backend
-│ │ ├── routes/ # API routes (papers, uploads)
-│ │ ├── models/ # MongoDB models
-│ │ ├── db.js
-│ │ ├── uploads/
+### Backend
+1. Go to the backend folder:
+   ```bash
+   cd fronetnd\backend
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the backend server:
+   ```bash
+   npm start
+   ```
+   Backend runs at: http://localhost:5002
+4. Go to the frontend folder:
+   ```bash
+   cd frontend
+   ```
+5. Install dependencies:
+   ```bash
+   npm install
+   ```
+6. Start the frontend:
+   ```bash
+   npm start
+   ```
+   Frontend runs at: http://localhost:3000
