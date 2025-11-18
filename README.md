@@ -1,7 +1,7 @@
 # Research Paper Publications Portal
 
 ## Project Overview
-The Research Paper Publications Portal is a web application for browsing, viewing, and uploading research papers by department.The website helps to organize and showcase research papers from your college. Students can explore papers by department for guidance, and the portal highlights the research work done by professors and students, showing the college's academic achievements.
+The Research Paper Publications Portal is a web application for browsing, viewing, and uploading research papers by department. The website helps to organize and showcase research papers from your college. Students can explore papers by department for guidance, and the portal highlights the research work done by professors and students, showing the college's academic achievements.
 It consists of:  
 - **Frontend:** React.js  
 - **Backend:** Node.js + Express  
