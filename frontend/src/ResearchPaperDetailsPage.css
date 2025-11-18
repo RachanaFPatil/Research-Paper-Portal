@@ -1,0 +1,19 @@
+.paper-details {
+    padding: 20px;
+    text-align: left;
+    max-width: 800px;
+    margin: 0 auto;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .paper-details h2 {
+    color: #333;
+  }
+  
+  .paper-details p {
+    color: #555;
+    margin-bottom: 10px;
+  }
+  

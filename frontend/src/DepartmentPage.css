@@ -1,0 +1,20 @@
+.department-page {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .papers-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .paper-link {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .paper-link:hover {
+    text-decoration: underline;
+  }
+  
